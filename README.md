@@ -16,4 +16,9 @@ An implementation of free monad plus in purescript
 See [unit tests][1] for example usage
 
 
+## Documentation
+
+Module documentation is [published on Pursuit](http://pursuit.purescript.org/packages/purescript-free-monadplus).
+
+
 [1]: https://github.com/Risto-Stevcev/purescript-free-monadplus/blob/master/test/Control/MonadPlus/Free.purs
