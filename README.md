@@ -16,6 +16,11 @@ An implementation of free monad plus in purescript
 See [unit tests][1] for example usage
 
 
+## Limitation
+
+The current version of this library is uses the simpler implementation for free monads with monad plus. As a result, it isn't optimized in any way for left-associated binds. The implementation of purescript-free could be copied here, or this library could be merged into that one. PRs are welcome.
+
+
 ## Documentation
 
 Module documentation is [published on Pursuit](http://pursuit.purescript.org/packages/purescript-free-monadplus).
